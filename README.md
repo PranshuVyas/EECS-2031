@@ -1,2 +1,2 @@
-# EECS-2031
-This Directory is for C+ and bash scripting.
+# IoT-alarm
+eecs2031 IoT alarm assignment. The code here is just the skeleton. You will have to write the rest.
